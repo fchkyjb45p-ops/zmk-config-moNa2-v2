@@ -19,6 +19,7 @@ config SPI
     default y
 
 config PMW3610
+    bool "Enable PMW3610 driver"
     default y
 
 endif
